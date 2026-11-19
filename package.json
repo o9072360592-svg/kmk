@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2","ws":"^8.17.1"},"description":"電話をかけるとAIと日本語で話せる自作ライン (Twilio ConversationRelay + OpenAI)","main":"server.js","name":"ai-denwa","private":true,"scripts":{"start":"node server.js"},"type":"module","version":"0.1.0"}
